@@ -40,7 +40,7 @@ allprojects {
 
 ```
 dependencies {
-  implementation 'com.github.okraHQ:okra-android-sdk:v2.57'
+  implementation 'ng.okra.com:okra:1.0.0'
  }
 ```
 
